@@ -9,3 +9,6 @@ dans client.py
 
 La fonction envoi_liste() de client.py prend en entrée une liste d'entiers, et renvoie 
 les données recues par le worker EC2.
+
+Si la vidéo n'est pas lisible, essayez cet autre format plus volumineux sur filesender :
+https://filesender.renater.fr/?s=download&token=0a2e889f-c4ae-473c-8892-a4b17673bcc0
